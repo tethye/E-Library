@@ -1,0 +1,14 @@
+h1{
+    color: #ff8f59;
+}
+
+.bg-custom{
+    background-color: cadetblue;
+    color: black;
+}
+
+.navbar .nav-item:hover .nav-link{
+    background-color: white;
+    border-radius: 20px;
+    color: cadetblue;
+}
