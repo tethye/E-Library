@@ -1,0 +1,1 @@
+It is an E-commerce site. There is an admin panel and a user panel. On this site, users can buy or sell books and also can download pdf. Every user can upload book pdf. Admin can remove the pdf if he want. 
